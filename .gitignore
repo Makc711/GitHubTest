@@ -14,6 +14,7 @@
 *.userprefs
 _HowToUse_README.txt
 .settings/
+EmbeddedProject1/
 
 # Mono auto generated files
 mono_crash.*
